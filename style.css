@@ -1,0 +1,8 @@
+.main {
+  margin: 0;
+  padding: 40vh 0;
+  height: 100vh;
+  background: #d8e0e3;
+  display: flex;
+  justify-content: center;
+}
